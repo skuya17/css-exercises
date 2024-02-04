@@ -1,0 +1,14 @@
+.Click-A,.Click-B{
+    font-size:28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
+
+
+.Click-A{
+    background-color: black;
+    color:white;
+}
+
+.Click-B{
+    background-color: yellow;
+}
